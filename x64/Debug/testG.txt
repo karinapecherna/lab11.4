@@ -1,0 +1,4 @@
+Kyiv;Lviv;123
+Lviv;Odessa;456
+Lviv;Dnipro;111
+Number of matching lines: 3

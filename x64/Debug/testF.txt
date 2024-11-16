@@ -1,0 +1,4 @@
+Kyiv;Lviv;123
+Lviv;Odessa;456
+Odessa;Kyiv;789
+Lviv;Dnipro;111
